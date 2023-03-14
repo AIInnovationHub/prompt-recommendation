@@ -4,8 +4,8 @@
 We are trying to recommend the best prompt for users.
 
 ## Development
-Install all dependencies with anaconda:
+Install all dependencies with pip:
 
 ```bash
-conda env create -f environment.yml
+pip install -r requirements.txt
 ```
