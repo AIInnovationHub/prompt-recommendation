@@ -19,5 +19,5 @@ jobs:
         pip install -r requirements.txt
     - name: Test with pytest
       run: |
-        conda install pytest
+        pip install pytest
         pytest
