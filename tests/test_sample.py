@@ -1,2 +1,6 @@
 def test_sample():
     return 1 == 1
+
+
+def test_sample2():
+    return 1 == 1
