@@ -9,3 +9,6 @@ Install all dependencies with pip:
 ```bash
 pip install -r requirements.txt
 ```
+
+
+
