@@ -8,6 +8,3 @@ def test_sample2():
 
 def test_sample3():
     return 1 == 1
-
-def test_sample4():
-    return 1 == 1
