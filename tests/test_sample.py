@@ -9,7 +9,3 @@ def test_sample2():
 def test_sample3():
     return 1 == 1
 
-
-def test_trigger_ci():
-    retrun
-    1 == 1
