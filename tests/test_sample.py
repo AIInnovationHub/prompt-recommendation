@@ -13,4 +13,3 @@ def test_sample3():
 
 def test_sample4():
     return 1 == 1
->>>>>>> Stashed changes
